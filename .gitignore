@@ -1,0 +1,4 @@
+bld/*
+!bld/track.js
+!bld/track.user.js
+!bld/viewer.html
